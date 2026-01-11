@@ -1,18 +1,18 @@
-# Project Title (Update)
+# Hola Mundo
 
-Add a description of your project here.
+Quick code demo of rust to print "Hola Mundo"
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
+1. Run the executable: 'holamundo'
+2. If any changes made, recompile code with rustc holamundo
 3.
 
 Instructions for using the software:
 
-1. First step here
+1. Run the executable: 'holamundo' & it will print text in the terminal
 2.
 3.
 
@@ -20,7 +20,7 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
+* Rust
 *
 *
 
@@ -28,7 +28,7 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
+* [TutorialsPoint](https://www.tutorialspoint.com/rust/rust_hellowrld_example.html)
 *
 *
 
@@ -36,6 +36,6 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
+* [ ] Potentially cause the printed statement to be repeated several times
 * [ ]
 * [ ]
