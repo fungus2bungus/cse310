@@ -28,7 +28,7 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* [TutorialsPoint](https://www.tutorialspoint.com/rust/rust_hellowrld_example.html)
+* [TutorialsPoint](https://www.tutorialspoint.com/rust/rust_hellowrold_example.html)
 *
 *
 
